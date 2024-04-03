@@ -10,7 +10,7 @@ It has no compiled version available to download, you need to compile it yoursel
 This project was coded on Netbeans 8 and Java SDK.
 
 <h4>About FlipList</h4>
-FlipList was aimed to provide its user a desktop friendly secure way to manage his/her daily to-do lists. This project was coded by <a href="https://www.twitter.com/rakibtg">Hasan</a> for the university final Java course project with another team member Shaon <i>(dichu-dichu) :D</i><br />By the way it is not completed and the codebase is pretty <b>baffled</b>.
+FlipList was aimed to provide its user a desktop friendly secure way to manage his/her daily to-do lists. This project was coded by <a href="https://www.linkedin.com/in/yusuf-al-rahman-8049a21b3/">Josev</a> for the university final Java course project with another team member Shaon <i>(dichu-dichu) :D</i><br />By the way it is not completed and the codebase is pretty <b>baffled</b>.
 
 <h4>Development Dependency</h4>
 <b>Database:</b> FlipList uses the Sqlite3 as its database.
